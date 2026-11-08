@@ -1,0 +1,6 @@
+{
+  "name": "HAI Logistic Corporate & Multi-Brand E-Commerce Platform",
+  "description": "Unified digital platform for HAI Logistic corporate operations, Rivora floral & café boutique, and Ran Diriya Ceylon spices and tea.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
